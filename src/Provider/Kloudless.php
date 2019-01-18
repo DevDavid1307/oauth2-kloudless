@@ -23,9 +23,9 @@ class Kloudless extends AbstractProvider
     /**
      * default scopes
      *
-     * @var array
+     * @var array|null
      */
-    private $defaultScopes = [];
+    private $defaultScopes = null;
 
     // ------------------------------------------------------------------------------
 
