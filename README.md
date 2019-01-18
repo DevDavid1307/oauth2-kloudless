@@ -1,2 +1,1 @@
-# oauth2-kloudless
-oauth2 for kloudless
+# Kloudless Provider for OAuth 2.0 Client
