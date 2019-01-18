@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EslintConfiguration">
+    <custom-configuration-file used="true" path="$PROJECT_DIR$/../../Stamsel-Frontend/.eslintrc.js" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" bootstrap_file_path="$PROJECT_DIR$/../../Platform/application/tests/Bootstrap.php" configuration_file_path="$PROJECT_DIR$/../../Platform/application/tests/phpunit.xml" custom_loader_path="$PROJECT_DIR$/../../Platform/application/tests/_ci_phpunit_test/autoloader.php" phpunit_phar_path="/usr/local/bin/phpunit" use_bootstrap_file="true" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="lanlin" />
+  </component>
+  <component name="VagrantProjectSettings">
+    <option name="instanceFolder" value="" />
+    <option name="provider" value="" />
+  </component>
+</project>
