@@ -54,7 +54,7 @@ class KloudlessResourceOwner implements ResourceOwnerInterface
      */
     public function getId()
     {
-        return $this->response[$this->ownerId];
+        return $this->ownerId;
     }
 
     // ------------------------------------------------------------------------------
